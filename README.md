@@ -3,7 +3,7 @@
 <h3 align="center">A humble learner constantly learning new things!</h3>
 
 💫 About Me: <br>
-🔭 I’m currently working on a project to implement microservices.<br>👯 I’m looking to collaborate on large-scale projects.<br>🌱 I’m currently learning **Microservices with Spring boot**!<br>💬 Ask me about _**Java, Spring boot, Spring security, Spring data JPA, Hibernate**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: _sayedxali7@gmail.com_
+🔭 I’m currently Servlet & JSP and right after that, I plan to learn JavaEE.<br>👯 I’m looking to collaborate on large-scale projects.<br>🌱 I’m currently learning **Microservices with Spring boot**!<br>💬 Ask me about _**Java, Spring boot, Spring security, Spring data JPA, Hibernate**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: _sayedxali7@gmail.com_
 
 
 ## 🌐 Socials:

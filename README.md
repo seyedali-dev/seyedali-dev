@@ -1,9 +1,9 @@
 ![logo](https://github.com/HumbleLearner01/HumbleLearner01/blob/master/SpringBanner.png)
-<h1 align="center">Hi 👋, I'm Sayed Mohammad Ali</h1>
+<h1 align="center">Hi 👋, I'm Seyed Ali</h1>
 <h3 align="center">A humble learner constantly learning new things!</h3>
 
 💫 About Me: <br>
-💻 I’m looking to collaborate on large-scale projects.<br>🌱 I recently learned **Reactive Programming with Spring WebFlux**!<br>💬 Ask me about _**Java, Spring Boot, Spring Security, Spring Data JPA, Spring WebFlux, Spring Security by WebFlux**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: _sayedxali7@gmail.com_
+💻 I’m looking to collaborate on large-scale projects.<br>🌱 I recently learned **Reactive Programming with Spring WebFlux**!<br>💬 Ask me about _**Java, Spring Boot, Spring Security, Spring Data JPA, Spring WebFlux, Spring Security by WebFlux, Microservices, Apache Kafka**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: _sayedxali7@gmail.com_
 
 
 ## 🌐 Socials:

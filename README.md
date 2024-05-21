@@ -28,7 +28,8 @@
 [![](https://visitcount.itsvg.in/api?id=seyedali-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br/><br/>
-![Snake animation](https://github.com/seyedali-dev/seyedali-dev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/seyedali-dev/seyedali-dev/blob/output/github-contribution-grid-snake.svg) -->
+<img src="https://raw.githubusercontent.com/seyedali-dev/seyedali-dev/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote<br>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)

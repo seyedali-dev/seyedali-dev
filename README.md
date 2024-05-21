@@ -8,10 +8,10 @@
 <!--# 💻 Tech Stack:
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p><br> -->
-<br><br><br>
-<img align="right" height="150" src="https://th.bing.com/th/id/R.45b65b692b1024a9a4c00a4c2fefb09f?rik=g9cFFtQS34JTCA&pid=ImgRaw&r=0"  />
 
-### Skill Set :)
+<br/>
+
+# Skill Set :)
 <!-- skill set without table format
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
@@ -123,10 +123,12 @@
 
 </td>
 </tr></table>  
+<div align="center">
+ <img height="500" src="https://th.bing.com/th/id/R.45b65b692b1024a9a4c00a4c2fefb09f?rik=g9cFFtQS34JTCA&pid=ImgRaw&r=0"  />
+</div>
 
-
-<br><br><br>
-## 🌐 Socials:
+<br><br>
+# 🌐 Socials:
 
 <!--<p align="left">
 <a href="https://www.linkedin.com/in/sayedxali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/humble-learner" height="30" width="40" /></a>
@@ -149,8 +151,7 @@
   <a href="https://t.me/rdensh01"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /></a>
 </div>
 
-
-<br><br><br>
+<br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seyedali-dev&theme=dark&hide_border=false)<br/>
 <div>

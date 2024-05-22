@@ -144,10 +144,11 @@
 </div>-->
 <div align="left">
   <a href="mailto:seyedali.devl@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/sayedxali"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://www.linkedin.com/in/seyedali-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="https://discord.com/users/_"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
   <a href="https://dev.to/_"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" /></a>
   <a href="https://medium.com/@_"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" /></a>
+  <a href="https://seyedali.hashnode.dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@seyedali.hashnode.dev" height="35" width="40" /></a>
   <a href="https://t.me/rdensh01"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /></a>
 </div>
 
@@ -163,9 +164,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=seyedali-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/><br/>
+<br/><br/> <!-- snake -->
 <!-- ![Snake animation](https://github.com/seyedali-dev/seyedali-dev/blob/output/github-contribution-grid-snake.svg) -->
 <img src="https://raw.githubusercontent.com/seyedali-dev/seyedali-dev/output/snake.svg" alt="Snake animation" />
+
+<!-- Blogs -->
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### ✍️ Random Dev Quote<br>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)

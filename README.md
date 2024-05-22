@@ -171,6 +171,7 @@
 <!-- Blogs -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://dev.to/seyedali/test-9gp)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️ Random Dev Quote<br>

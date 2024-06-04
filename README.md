@@ -1,4 +1,4 @@
-![logo](https://github.com/HumbleLearner01/HumbleLearner01/blob/master/SpringBanner.png)
+![logo](./SpringBanner.png)
 <h1 align="center">Hi 👋, I'm Seyed Ali</h1>
 <h3 align="center">A humble learner constantly learning new things!</h3>
 

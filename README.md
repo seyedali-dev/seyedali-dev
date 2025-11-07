@@ -41,12 +41,18 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Backend  
+### Language  
 <div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="60" /></a>  
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="60" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java,go,rust" alt="Java" height="60" /></a>  
 <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" height="60" alt="go logo" />
 </div>
+
+</td><td valign="top" width="33%">
+
+### Framework
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="60" /></a>
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=actix" alt="Spring" height="60" /></a>
 
 </td><td valign="top" width="33%">
 
@@ -79,11 +85,22 @@
 <table><tr>
 <td valign="top" width="25%">
 
-### Backend  
+### Languages  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="60" /></a>  
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="60" /></a>  
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" height="60" alt="go logo" />  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" /></a>
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Frameworks
+<div align="center">
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="60" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=actix" alt="Actix" height="60" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=beego" alt="Beego" height="60" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gin" alt="Gin" height="60" /></a>
 </div>
 
 </td>

@@ -100,7 +100,7 @@
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="60" /></a>
 <a href="#" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=actix" alt="Actix" height="60" /></a>
 <a href="#" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=beego" alt="Beego" height="60" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gin" alt="Gin" height="60" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="Gin" height="60" /></a>
 </div>
 
 </td>

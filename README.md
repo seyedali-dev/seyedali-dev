@@ -2,8 +2,26 @@
 <h1 align="center">Hi 👋, I'm Seyed Ali</h1>
 <h3 align="center">A humble learner constantly learning new things!</h3>
 
-💫 About Me: <br>
-💻 I’m looking to collaborate on large-scale projects.<br>🌱 I recently learned **Reactive Programming with Spring WebFlux**!<br>💬 Ask me about _**Java, Spring Boot, Spring Security, Spring Data JPA, Spring WebFlux, Spring Security by WebFlux, Microservices, Apache Kafka**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: _sayedxali7@gmail.com_
+💻 **Backend Engineer | Golang Developer | Java & Rust Enthusiast**
+
+---
+
+### 🧠 About Me
+
+- 💼 Currently working as a **Golang Developer**, building scalable backend systems.
+- ☕️ Started out with **Java (Spring Boot)** — 3+ years of experience in Spring-based microservices.
+- 🌊 Recently explored **Reactive Programming with Spring WebFlux** — loved the async model!
+- 🦀 Currently learning **Rust**, diving into **Actix** and systems-level programming.
+- ⚙️ Passionate about **microservices**, **clean architecture**, and **performance optimization**.
+- 🧩 Believe in simplicity, concurrency, and reliability in backend design.
+- ⏰ Early riser — I code on personal projects from **4 AM → 7 AM** every day.
+- 🧘‍♂️ I see coding as craftsmanship, not just work.
+
+---
+
+### 💬 Ask Me About
+
+_**Java, Spring Boot, Spring Security, Spring Data JPA, Spring WebFlux, Spring Security by WebFlux, Microservices, Apache Kafka, Golang, Rust, Actix, Docker, and Testcontainers**_
 
 <!--# 💻 Tech Stack:
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->

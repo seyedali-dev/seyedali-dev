@@ -225,48 +225,76 @@ Apache Kafka, Golang, Rust, Actix, Docker, and Testcontainers**_
 <br/>
 <br/>
 <div align="center">
-  <a href="https://github.com/seyallius/gossip">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=gossip&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 2">
-  </a>
-  <a href="https://github.com/seyallius/hush">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=hush&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 5">
-  </a>
-  <a href="https://github.com/seyallius/gosaidno">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=gosaidno&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 3">
-  </a>
-  <a href="https://github.com/seyallius/goxide">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=goxide&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 4">
-  </a>
- <a href="https://github.com/seyallius/doppel">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=doppel&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 5">
-  </a>
- <a href="https://github.com/seyallius/treeclip.v2">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=treeclip.v2&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 1">
-  </a>
- <a href="https://github.com/seyallius/nomnom">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=nomnom&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 6">
-  </a>
- <a href="https://github.com/seyallius/war">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=war&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 6">
-  </a>
- <a href="https://github.com/seyallius/lastcall">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=lastcall&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 6">
-  </a>
- <a href="https://github.com/seyallius/treegotchi">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=treegotchi&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 6">
-  </a>
- <a href="https://github.com/seyallius/letsgomeeeeeow">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=letsgomeeeeeow&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 5">
-  </a>
- <a href="https://github.com/seyallius/snapdb">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=snapdb&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 5">
-  </a>
- <a href="https://github.com/seyallius/toolkitrs">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=toolkitrs&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 5">
-  </a>
- <a href="https://github.com/seyallius/govmr">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=govmr&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Repo 5">
-  </a>
+    <a href="https://github.com/seyallius/gossip">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=gossip&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 2">
+    </a>
+    <a href="https://github.com/seyallius/govmr">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=govmr&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 5">
+    </a>
+    <a href="https://github.com/seyallius/snapdb">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=snapdb&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 5">
+    </a>
+    <a href="https://github.com/seyallius/treeclip.v2">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=treeclip.v2&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 1">
+    </a>
+    <a href="https://github.com/seyallius/gosaidno">
+        <a href="https://github.com/seyallius/goxide">
+            <img width="278"
+                 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=goxide&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+                 alt="Repo 4">
+        </a>
+        <a href="https://github.com/seyallius/doppel">
+            <img width="278"
+                 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=doppel&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+                 alt="Repo 5">
+        </a>
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=gosaidno&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 3">
+    </a>
+    <a href="https://github.com/seyallius/hush">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=hush&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 5">
+    </a>
+    <a href="https://github.com/seyallius/nomnom">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=nomnom&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 6">
+    </a>
+    <a href="https://github.com/seyallius/war">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=war&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 6">
+    </a>
+    <a href="https://github.com/seyallius/lastcall">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=lastcall&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 6">
+    </a>
+    <a href="https://github.com/seyallius/treegotchi">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=treegotchi&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 6">
+    </a>
+    <a href="https://github.com/seyallius/letsgomeeeeeow">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=letsgomeeeeeow&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 5">
+    </a>
+    <a href="https://github.com/seyallius/toolkitrs">
+        <img width="278"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seyallius&repo=toolkitrs&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false"
+             alt="Repo 5">
+    </a>
 </div>
 
 <!--START_SECTION:WakaTime-->

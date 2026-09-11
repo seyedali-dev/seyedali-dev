@@ -57,6 +57,12 @@
   <a href="https://actix.rs/" target="_blank"><img src="https://skillicons.dev/icons?i=actix" height="60" alt="Actix" /></a>
   <a href="https://beego.me/" target="_blank"><img src="https://skillicons.dev/icons?i=beego" height="60" alt="Beego" /></a>
   <a href="https://gin-gonic.com/" target="_blank"><img src="https://github.com/gin-gonic/logo/blob/master/color.svg" height="60" alt="Gin" /></a>
+  <a href="https://gofiber.io">
+    <picture>
+      <source height="60" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg">
+      <img height="60" alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg">
+    </picture>
+  </a>
 </div>
 
 </td>
